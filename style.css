@@ -3,3 +3,41 @@ body {
   height: 100%;
   margin: 0;
 }
+
+header {
+  text-align: center;
+}
+
+section#featured-property {
+  text-align: center;
+}
+
+#featured-property p {
+  text-align: center;
+  width: 800px;
+  margin: auto;
+  padding: 10px;
+}
+
+nav a {
+  background-color: #DBCEAC;
+  padding: 0px 10px 0px 10px;
+}
+
+figcaption {
+  font-size: 10px;
+}
+
+section#details {
+  text-align: center;
+}
+
+div {
+  text-aligin: center;
+  width: 25%;
+  background-color: red;
+}
+
+#details div {
+  float: left;
+}
